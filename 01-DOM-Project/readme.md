@@ -102,7 +102,7 @@ let getBackFooterIcon = (document.querySelector("footer ul").style.visibility =
 
 ![task-04-img](./firstAssignmentImage/task4Output.png)
 
-![task-04]()
+![task-04](https://user-images.githubusercontent.com/103021442/217598743-72bd0ae8-ce5c-4f70-9e3f-0acfd5ff407b.png)
 **Solution:**
 
 ```
